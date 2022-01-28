@@ -37,6 +37,10 @@
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 
+{{ "<!-- Particles Script -->" | safeHTML }}
+{{ $scriptParticles := resources.Get "js/particles.min.js" | minify | fingerprint "sha384"}}
+<script src="{{ $scriptParticles.Permalink }}" integrity="{{ $scriptParticles.Data.Integrity }}"></script>
+
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify | fingerprint "sha384"}}
 <script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
