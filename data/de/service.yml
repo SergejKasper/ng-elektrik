@@ -1,0 +1,35 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Elektroinstallation
+      link : "#services"
+      icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+      content : Wir bieten hochwertige Elektroinstallation für ihr Zuhause und ihr Unternehmen an
+      
+    # service item loop
+    - name : Elektroreparatur
+      link : "#services"
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : Wir sind Experten in der Reparatur komplexer elektronischer Geräte
+      
+    # service item loop
+    - name : Solaranlagen
+      link : "#services"
+      icon : ti-layout-column3-alt # themify icon pack : https://themify.me/themify-icons
+      content : Wir können Solaranlagen für sie installieren und in Stand halten
+      
+    # service item loop
+    - name : Smart Home & Security
+      link : "#services"
+      icon : ti-home # themify icon pack : https://themify.me/themify-icons
+      content : Wir helfen ihnen gerne bei ihrer zukünftigen Smart Home Lösung
+      
+    # service item loop
+    - name : Webentwicklung
+      link : "#services"
+      icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content : Wir entwickeln für sie gerne einen professionellen Webauftritt
+    
