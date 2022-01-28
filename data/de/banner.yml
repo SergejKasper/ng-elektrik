@@ -6,8 +6,3 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "NG Elektrik"
   content : "<b>Elektrotechnik, IT und Web</b>"
-  buttons:
-    - label : "Explore Us"
-      link : "#services"
-    - label : "Explore Us"
-      link : "#services"

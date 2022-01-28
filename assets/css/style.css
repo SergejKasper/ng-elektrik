@@ -975,14 +975,17 @@ a:hover {
   max-height: 0;
   padding: 0 20px;
   overflow: hidden;
-  transition: max-height 0.4s ease-in;
+  transition: all 0.4s ease-in;
 }
 
 .service-block .service-icon {
   margin-bottom: 10px;
   font-size: 50px;
 }
-
+.service-block:hover {
+  border: 1px solid #57cbcc;
+  box-shadow: 2px 2px 5px #57cacc60, 6px 6px #57cacca2;
+}
 .service-block:hover .service-content p {
   max-height: 100px;
 }

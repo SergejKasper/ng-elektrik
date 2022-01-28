@@ -18,7 +18,7 @@
 		<h2 class="subtitle">{{ .content | markdownify }}</h2>
 		<div class="service_box">
 			{{ range $data.service.service.service_item }}
-			<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .name }}</a>
+			<a href="#{{ replace .name " " "_" }}" class="btn btn-transparent page-scroll">{{ .name }}</a>
 			{{ end }}
 		</div>
 	</div>

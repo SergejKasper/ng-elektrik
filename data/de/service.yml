@@ -16,7 +16,7 @@ service:
     - name : Elektroreparatur
       link : "#services"
       # icon : ti-settings # themify icon pack : https://themify.me/themify-icons
-      content : Wir sind Experten in der Reparatur komplexer elektronischer Geräte
+      content : Wir sind Experten in der Reparatur komplexer Elektrogeräte
       image: 
         webp: images/services/repair.webp
         fallback: images/services/repair.png
@@ -31,7 +31,7 @@ service:
         fallback: images/services/solar.png
 
     # service item loop
-    - name : Smart Home & Security
+    - name : Smart Home
       link : "#services"
       # icon : ti-home # themify icon pack : https://themify.me/themify-icons
       content : Wir helfen ihnen gerne bei ihrer zukünftigen Smart Home Lösung
