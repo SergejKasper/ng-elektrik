@@ -1,35 +1,49 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Unsere Leistungen
   service_item :
     # service item loop
     - name : Elektroinstallation
       link : "#services"
-      icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+      # icon : ti-plug # themify icon pack : https://themify.me/themify-icons
       content : Wir bieten hochwertige Elektroinstallation für ihr Zuhause und ihr Unternehmen an
+      image: 
+        webp: images/services/installation.webp
+        fallback: images/services/installation.png
       
     # service item loop
     - name : Elektroreparatur
       link : "#services"
-      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      # icon : ti-settings # themify icon pack : https://themify.me/themify-icons
       content : Wir sind Experten in der Reparatur komplexer elektronischer Geräte
-      
+      image: 
+        webp: images/services/repair.webp
+        fallback: images/services/repair.png
+
     # service item loop
     - name : Solaranlagen
       link : "#services"
-      icon : ti-layout-column3-alt # themify icon pack : https://themify.me/themify-icons
+      # icon : ti-layout-column3-alt # themify icon pack : https://themify.me/themify-icons
       content : Wir können Solaranlagen für sie installieren und in Stand halten
-      
+      image: 
+        webp: images/services/solar.webp
+        fallback: images/services/solar.png
+
     # service item loop
     - name : Smart Home & Security
       link : "#services"
-      icon : ti-home # themify icon pack : https://themify.me/themify-icons
+      # icon : ti-home # themify icon pack : https://themify.me/themify-icons
       content : Wir helfen ihnen gerne bei ihrer zukünftigen Smart Home Lösung
-      
+      image: 
+        webp: images/services/home-security.webp
+        fallback: images/services/home-security.png      
     # service item loop
     - name : Webentwicklung
       link : "#services"
-      icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
+      # icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
       content : Wir entwickeln für sie gerne einen professionellen Webauftritt
+      image: 
+        webp: images/services/webdevelopment.webp
+        fallback: images/services/webdevelopment.png    
     

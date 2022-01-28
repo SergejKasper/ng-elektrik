@@ -9,15 +9,11 @@ contact:
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Adresse: 8695 Buzsák, Fonyódi utca 6."
-      
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Telefon: +36 300 833 422"
-      
-    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-    #  info : "Fax: +880-31-000-000"
-      
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: team@ng-elektrik.com"
+      link : "mailto:team@ng-elektrik.com"
 
 
   # Contact form

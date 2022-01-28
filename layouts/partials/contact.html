@@ -26,7 +26,11 @@
 					{{ range .contact_list }}
 					<div class="con-info clearfix">
 						<i class="{{ .icon }}"></i>
+						{{ if .link }}
+						<a href="{{ .link }}">{{ .info }}</a>
+						{{ else }}
 						<span>{{ .info }}</span>
+						{{ end }}
 					</div>
 					{{ end }}
 				</div>
