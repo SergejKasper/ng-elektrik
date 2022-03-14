@@ -1,27 +1,24 @@
 ############################## Contact #############################
 contact:
-  enable : true
-  title : Kontaktiere Uns
-  subtitle : Kontaktdetails
-  content : 
-
+  enable: true
+  title: Kontaktiere Uns
+  subtitle: Kontaktdetails
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Adresse: 8695 Buzsák, Fonyódi utca 6."
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Telefon: +36 300 833 422"
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: team@ng-elektrik.com"
-      link : "mailto:team@ng-elektrik.com"
-
+    - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info: "Adresse: 8695 Buzsák, Fonyódi utca 6."
+    - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info: "Telefon: +36 300 833 422"
+    - icon: ti-email # themify icon pack : https://themify.me/themify-icons
+      info: "Email: NG-Elektrik@Outlook.de"
+      link: "mailto:NG-Elektrik@Outlook.de"
 
   # Contact form
   contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Dein Name"
-    email : "Deine Email"
-    subject : "Thema"
-    message : "Nachricht"
-    submit : "Absenden"
+    enable: true
+    form_action: "#" #contact form works with https://formspree.io
+    name: "Dein Name"
+    email: "Deine Email"
+    subject: "Thema"
+    message: "Nachricht"
+    submit: "Absenden"
