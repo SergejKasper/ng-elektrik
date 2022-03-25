@@ -8,14 +8,14 @@ impress:
     <div style='text-align: center'>
     <div>Peter G&ouml;rzen</div>
     <div>8695 Buzs&aacute;k, Fony&oacute;di utca 6.</div>
-    <div>Telefon: +36 300 833 422</div>
-    <div>Email: NG-Elektrik@Outlook.de</div>
     </div>
     <br/>
-    <h4 style='text-align: center'>Kontakt</h4>
+    <h5 style='text-align: center'>Kontakt</h5>
     <div style='text-align: center'>
     <div><a href='tel:+36 300 833 422'>Telefon: +36 300 833 422</a></div>
-    <div><a href='mailto:NG-Elektrik@Outlook.de'>Email: NG-Elektrik@Outlook.de</a></div>
+    <div><a href='mailto:NG-Elektrik@Outlook.com'>Email: NG-Elektrik@Outlook.com</a></div>
+    <div><a href='tel: +4917680648784'>Mobil: +49 176 80648784</a></div>
+
     </div>
     <br/>
     <h4 style='text-align: center'>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV</h4>
@@ -40,6 +40,7 @@ impress:
     <div>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung au&szlig;erhalb der Grenzen des Urheberrechtes bed&uuml;rfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur f&uuml;r den privaten, nicht kommerziellen Gebrauch gestattet.</div>
     <div>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</div>
     <br/>
+    <hr/>
     <br/>
     <div style='text-align: center'>
     <div>Ungarische Steuernummer:             27718511-2-14 </div>
@@ -47,14 +48,8 @@ impress:
     <div>Handelsregisternummer:               14-09-318984 </div>
     <div>Europäische Handelsregisternummer:   HUOCCSZ.14-09-318984</div>
     <div>Bankkonto für Forint – IBAN/BIC:     HU12 1174 3105 2144 9242 0000 0000 / OTPVHUHBXXX</div>
-    <div>Bankkonto für Euro – IBAN/BIC:                HU12 1176 3433 4771 9882 0000 0000 / OTPVHUHBXXX</div>
+    <div>Bankkonto für Euro – IBAN/BIC:       HU89 1176 3433 4771 9882 0000 0000 / OTPVHUHBXXX</div>
     </div>
     <br/>
     <br/>
-    <div style='text-align: center'>
-    <div >Peter G&ouml;rzen</div>
-    <div>Pet&#337;fi S&aacute;ndor u. 21</div>
-    <div>Buzs&aacute;k, 8695 Ungarn</div>
-    <a href='tel: 017680648784'>Mobil: 0176/80648784</a>
-    </div>
     </div>"

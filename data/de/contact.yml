@@ -10,8 +10,8 @@ contact:
     - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
       info: "Telefon: +36 300 833 422"
     - icon: ti-email # themify icon pack : https://themify.me/themify-icons
-      info: "Email: NG-Elektrik@Outlook.de"
-      link: "mailto:NG-Elektrik@Outlook.de"
+      info: "Email: NG-Elektrik@Outlook.com"
+      link: "mailto:NG-Elektrik@Outlook.com"
 
   # Contact form
   contact_form:
